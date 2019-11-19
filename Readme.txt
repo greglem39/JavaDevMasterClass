@@ -1,0 +1,1 @@
+This is my personal repository for the coursework I will be doing with my Java course. Please be patient with incomplete files, as I may still be working through the challenges. I will also be using this repo to practice remotely making commits to GitHub for version control.
