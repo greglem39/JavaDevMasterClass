@@ -1,3 +1,5 @@
+//This is my challenge exercise for turning numbers into words - and me testing git updates
+
 public class NumberToWords {
 
     public static void numberToWords(int number){
